@@ -1328,96 +1328,6 @@ section.lazy-placeholder:after {
     top: -9rem;
   }
 }
-.cid-rleYSJ5k8h {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #e1e8ff;
-}
-.cid-rleYSJ5k8h h4 {
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rleYSJ5k8h .card-box {
-  padding-top: 3rem;
-}
-.cid-rleYSJ5k8h .card-wrapper {
-  overflow: hidden;
-  height: 100%;
-  position: relative;
-  background-color: #ffffff;
-  padding: 3rem 1.2rem 1.2rem 1.2rem;
-  border-radius: 8px;
-  transition: all 0.3s;
-}
-.cid-rleYSJ5k8h .card-wrapper:hover {
-  box-shadow: 0 10px 55px 5px rgba(137, 173, 255, 0.35);
-  transform: translateY(-1.5rem);
-}
-.cid-rleYSJ5k8h .mbr-iconfont {
-  padding-left: 0.4rem;
-}
-.cid-rleYSJ5k8h .link {
-  display: flex;
-  position: relative;
-  width: 100%;
-  justify-content: space-between;
-  padding-top: 8px;
-  transition: all 0.3s;
-  align-items: center;
-}
-.cid-rleYSJ5k8h .link .link-ico {
-  padding-top: 2px;
-  transition: margin 0.3s;
-}
-.cid-rleYSJ5k8h .link:hover {
-  color: #ff8a73 !important;
-}
-.cid-rleYSJ5k8h .link:hover .link-ico {
-  color: #ff8a73 !important;
-  margin-right: -3px;
-}
-.cid-rleYSJ5k8h .line {
-  width: 150%;
-  height: 1px;
-  background: lightgray;
-  position: absolute;
-  top: 0;
-  left: -25%;
-}
-.cid-rleYSJ5k8h img {
-  border-radius: 100%;
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-}
-.cid-rleYSJ5k8h .card-title {
-  color: #57468b;
-  text-align: center;
-}
-.cid-rleYSJ5k8h .row {
-  justify-content: center;
-}
-.cid-rleYSJ5k8h .main-title {
-  text-align: center;
-  color: #57468b;
-}
-.cid-rleYSJ5k8h P {
-  text-align: center;
-}
-.cid-rleYSJ5k8h .mbr-text,
-.cid-rleYSJ5k8h .link {
-  text-align: center;
-  color: #716c80;
-}
-.cid-rleYSJ5k8h DIV {
-  color: #57468b;
-}
-@media (max-width: 576px) {
-  .cid-rleYSJ5k8h .card-wrapper:hover {
-    transform: none;
-    box-shadow: none;
-  }
-}
 .cid-s3oWTCXs9u {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -1450,7 +1360,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s3oWTCXs9u .progress1 path {
-  stroke: #57468b;
+  stroke: #ff8a73;
 }
 .cid-s3oWTCXs9u .progress2 path {
   stroke: #5580ff;
