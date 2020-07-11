@@ -1189,9 +1189,54 @@ section.lazy-placeholder:after {
     transform: none;
   }
 }
+.cid-rlf4jo7ZYK {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rlf4jo7ZYK img {
+  height: 100%;
+  margin: 0 auto;
+  padding-bottom: 2rem;
+}
+.cid-rlf4jo7ZYK H1 {
+  color: #ff8a73;
+  text-align: center;
+}
+.cid-rlf4jo7ZYK .mbr-text,
+.cid-rlf4jo7ZYK .mbr-section-btn {
+  color: #716c80;
+}
+.cid-rlf4jo7ZYK H3 {
+  color: #716c80;
+}
+.cid-rlf4jo7ZYK .mbr-iconfont {
+  padding-left: 0.4rem;
+}
+.cid-rlf4jo7ZYK .link {
+  display: flex;
+  width: fit-content;
+  transition: all 0.3s;
+  align-items: center;
+}
+.cid-rlf4jo7ZYK .link .link-ico {
+  padding-top: 2px;
+  transition: padding 0.3s;
+}
+.cid-rlf4jo7ZYK .link:hover {
+  color: #ff8a73 !important;
+}
+.cid-rlf4jo7ZYK .link:hover .link-ico {
+  color: #ff8a73 !important;
+  padding-left: 10px;
+}
+.cid-rlf4jo7ZYK DIV {
+  color: #57468b;
+  text-align: center;
+}
 .cid-rlf1zGD2zy {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 15px;
+  padding-bottom: 45px;
   background-color: #e1e8ff;
 }
 .cid-rlf1zGD2zy .container {
@@ -1234,7 +1279,7 @@ section.lazy-placeholder:after {
 .cid-rlf1zGD2zy .mbr-iconfont {
   transition: all 0.3s;
   color: #ffffff !important;
-  font-size: 1.5rem !important;
+  font-size: 2rem !important;
 }
 .cid-rlf1zGD2zy .card {
   display: flex;
@@ -1372,49 +1417,6 @@ section.lazy-placeholder:after {
     transform: none;
     box-shadow: none;
   }
-}
-.cid-rlf4jo7ZYK {
-  padding-top: 45px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rlf4jo7ZYK img {
-  height: 100%;
-  margin: 0 auto;
-  padding-bottom: 2rem;
-}
-.cid-rlf4jo7ZYK H1 {
-  color: #57468b;
-}
-.cid-rlf4jo7ZYK .mbr-text,
-.cid-rlf4jo7ZYK .mbr-section-btn {
-  color: #716c80;
-}
-.cid-rlf4jo7ZYK H3 {
-  color: #716c80;
-}
-.cid-rlf4jo7ZYK .mbr-iconfont {
-  padding-left: 0.4rem;
-}
-.cid-rlf4jo7ZYK .link {
-  display: flex;
-  width: fit-content;
-  transition: all 0.3s;
-  align-items: center;
-}
-.cid-rlf4jo7ZYK .link .link-ico {
-  padding-top: 2px;
-  transition: padding 0.3s;
-}
-.cid-rlf4jo7ZYK .link:hover {
-  color: #ff8a73 !important;
-}
-.cid-rlf4jo7ZYK .link:hover .link-ico {
-  color: #ff8a73 !important;
-  padding-left: 10px;
-}
-.cid-rlf4jo7ZYK DIV {
-  color: #57468b;
 }
 .cid-s3oWTCXs9u {
   padding-top: 75px;
