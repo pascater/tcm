@@ -1610,6 +1610,7 @@ section.lazy-placeholder:after {
   line-height: 1.5;
   color: #57468b;
   padding-top: 2rem;
+  text-align: left;
 }
 .cid-rlf39gQAlA .card-img {
   padding-right: 2rem;
