@@ -2401,3 +2401,46 @@ section.lazy-placeholder:after {
   width: auto;
   max-width: 100%;
 }
+.cid-s4VDypAv0t {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-s4VDypAv0t img {
+  height: 100%;
+  margin: 0 auto;
+  padding-bottom: 2rem;
+}
+.cid-s4VDypAv0t H1 {
+  color: #57468b;
+}
+.cid-s4VDypAv0t .mbr-text,
+.cid-s4VDypAv0t .mbr-section-btn {
+  color: #716c80;
+}
+.cid-s4VDypAv0t H3 {
+  color: #716c80;
+}
+.cid-s4VDypAv0t .mbr-iconfont {
+  padding-left: 0.4rem;
+}
+.cid-s4VDypAv0t .link {
+  display: flex;
+  width: fit-content;
+  transition: all 0.3s;
+  align-items: center;
+}
+.cid-s4VDypAv0t .link .link-ico {
+  padding-top: 2px;
+  transition: padding 0.3s;
+}
+.cid-s4VDypAv0t .link:hover {
+  color: #ff8a73 !important;
+}
+.cid-s4VDypAv0t .link:hover .link-ico {
+  color: #ff8a73 !important;
+  padding-left: 10px;
+}
+.cid-s4VDypAv0t DIV {
+  color: #57468b;
+}
