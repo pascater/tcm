@@ -1718,6 +1718,9 @@
             },
             ".mbr-text": {
               "color": "#716c80"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#57468b"
             }
           },
           "_name": "forms03",
