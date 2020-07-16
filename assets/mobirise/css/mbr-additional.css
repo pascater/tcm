@@ -2024,7 +2024,7 @@ section.lazy-placeholder:after {
   position: relative;
   margin-bottom: 1.8rem;
   color: #ffffff;
-  text-align: center;
+  text-align: left;
 }
 .cid-rlf2Ljj53F .quote::after {
   top: 100%;
