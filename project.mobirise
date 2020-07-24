@@ -74,7 +74,8 @@
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
-    "pwa-switcher": false
+    "pwa-switcher": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
