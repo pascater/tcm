@@ -31,7 +31,7 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "name": "Polizza-vita.net",
+    "name": "Polizza-vita.net - La tua polizza vita, assicurazione caso morte decesso capofamiglia",
     "versionFirst": "4.12.3",
     "siteFonts": [
       {
@@ -68,24 +68,41 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "PWA": {
-      "enabled": false
+      "enabled": true
     },
     "favicon": false,
-    "cssOptimize": false,
+    "cssOptimize": true,
     "lazyLoad": false,
     "lazyType": "nothing",
-    "pwa-switcher": false,
-    "publishChangesOnly": true
+    "pwa-switcher": true,
+    "publishChangesOnly": true,
+    "chatbutton": {
+      "phone": "+393382234395",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "Ciao👋\n\nSe hai dubbi o perplessità, (o anche se vuoi semplicemente salutarmi), scrivimi quì un messaggio, sarò ben felice di fornirti una risposta utile 🔥\n\nPasquale Caterisano",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": "5",
+      "headerColor": "#39847a",
+      "headerTitle": "👋 Scrivimi su WhatsApp!",
+      "placeholder": "Scrivi qui il tuo messaggio",
+      "zIndex": 10,
+      "enabled": true
+    }
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Polizza vita caso morte decesso capofamiglia",
-        "meta_descr": "TCM Polizza decesso caso morte, che cos'è ed a cosa serve realmente.\nEcco le vere motivazioni per le quali, chiunque tra i 30 e i 55 anni, dovrebbe avere una polizza vita caso morte, per ripararsi dai rischi del decesso improvviso. ",
+        "title": "Polizza vita assicurazione caso morte decesso capofamiglia",
+        "meta_descr": "TCM Polizza decesso, assicurazione caso morte, che cos'è ed a cosa serve realmente.\nEcco le vere motivazioni per le quali, chiunque tra i 30 e i 55 anni, dovrebbe avere una polizza vita caso morte, per ripararsi dai rischi del decesso improvviso. ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/polizza-vita-tcm-youtube-copertina.png"
       },
       "components": [
         {
