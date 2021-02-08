@@ -75,7 +75,7 @@
     "lazyLoad": false,
     "lazyType": "nothing",
     "pwa-switcher": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "chatbutton": {
       "phone": "+393382234395",
       "message": "",
