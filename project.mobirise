@@ -41,7 +41,7 @@
       }
     ],
     "imageResize": false,
-    "uniqCompNum": 41,
+    "uniqCompNum": 42,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
@@ -65,7 +65,7 @@
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": false,
-      "text": "CONSENSO PRIVACY - Acconsento al trattamento ed alla conservazione dei miei dati come da leggi sulla Privacy.\n\nLa presente informativa privacy è redatta sulla base di molteplici ordinamenti legislativi, inclusi gli artt. 13 e 14 del Regolamento (UE) 2016/679. Leggi di più: <a href='https://www.iubenda.com/privacy-policy/23735829/legal'>Privacy Policy Completa</a>."
+      "text": "CONSENSO PRIVACY - Acconsento al trattamento ed alla conservazione dei miei dati come da leggi sulla Privacy.\n\nLa presente informativa privacy è redatta sulla base di molteplici ordinamenti legislativi, inclusi gli artt. 13 e 14 del Regolamento (UE) 2016/679. Leggi di più: <a href='https://www.iubenda.com/privacy-policy/23735829/legal' target=”_blank”>Privacy Policy Completa</a>."
     },
     "PWA": {
       "enabled": false
@@ -75,7 +75,7 @@
     "lazyLoad": true,
     "lazyType": "nothing",
     "pwa-switcher": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "chatbutton": {
       "phone": "+393382234395",
       "message": "",
