@@ -41,7 +41,7 @@
       }
     ],
     "imageResize": false,
-    "uniqCompNum": 46,
+    "uniqCompNum": 47,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
@@ -732,6 +732,22 @@
           "_params": {}
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"wrapper\">\n  <div class=\"h_iframe\">\n    <!-- a transparent image is preferable -->\n    <img class=\"ratio\" src=\"https://mobiletest.pagolapolizza.it/Prodotto/Tcm/\">\n    <iframe frameborder=\"0\" height=\"465px\" width=\"470px\" scrolling=\"no\" src=\"https://mobiletest.pagolapolizza.it/Prodotto/Tcm/\" allowfullscreen=\"\"></iframe>\n  </div>\n</div>",
+          "_customCSS": ".wrapper {\n  width: 100%;\n  height: 100%;\n  margin: 0 auto;\n  background: #ffffff;\n}\n\n.h_iframe {\n  position: relative;\n}\n\n.h_iframe .ratio {\n  display: block;\n  width: 100%;\n  height: auto;\n}\n\n.h_iframe iframe {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "techm4",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_params": {},
+          "_anchor": "custom-html-1a"
+        },
+        {
           "_styles": {
             "& when not (@fullScreen)": {
               "padding-top": "(@paddingTop * 15px)",
@@ -970,21 +986,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<div class=\"wrapper\">\n  <div class=\"h_iframe\">\n    <!-- a transparent image is preferable -->\n    <img class=\"ratio\" src=\"https://mobiletest.pagolapolizza.it/Prodotto/Tcm/\">\n    <iframe frameborder=\"0\" height=\"465px\" width=\"470px\" scrolling=\"no\" src=\"https://mobiletest.pagolapolizza.it/Prodotto/Tcm/\" allowfullscreen=\"\"></iframe>\n  </div>\n</div>",
-          "_customCSS": ".wrapper {\n  width: 100%;\n  height: 100%;\n  margin: 0 auto;\n  background: #ffffff;\n}\n\n.h_iframe {\n  position: relative;\n}\n\n.h_iframe .ratio {\n  display: block;\n  width: 100%;\n  height: auto;\n}\n\n.h_iframe iframe {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "techm4",
-          "_anchor": "custom-html-18",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
         },
         {
           "_styles": {
@@ -2432,6 +2433,21 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"wrapper\">\n  <div class=\"h_iframe\">\n    <!-- a transparent image is preferable -->\n    <img class=\"ratio\" src=\"https://mobiletest.pagolapolizza.it/Prodotto/Tcm/\">\n    <iframe frameborder=\"0\" height=\"465px\" width=\"470px\" scrolling=\"no\" src=\"https://mobiletest.pagolapolizza.it/Prodotto/Tcm/\" allowfullscreen=\"\"></iframe>\n  </div>\n</div>",
+          "_customCSS": ".wrapper {\n  width: 100%;\n  height: 100%;\n  margin: 0 auto;\n  background: #ffffff;\n}\n\n.h_iframe {\n  position: relative;\n}\n\n.h_iframe .ratio {\n  display: block;\n  width: 100%;\n  height: auto;\n}\n\n.h_iframe iframe {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "techm4",
+          "_anchor": "custom-html-18",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     }
