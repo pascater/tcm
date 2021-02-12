@@ -2421,7 +2421,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<meta name=\"viewport\" content=\"width=device-width\"> \n\n<div class=\"container\">\n  <iframe class=\"responsive-iframe\" src=\"https://mobiletest.pagolapolizza.it/Prodotto/Tcm/\" seamless=\"auto\" height=\"auto\" width=\"auto\">\n <p>Il browser in uso non supporta iframe</p></iframe>\n</div>\n\n",
+          "_customHTML": "  <iframe class=\"responsive-iframe\" src=\"https://mobiletest.pagolapolizza.it/Prodotto/Tcm/\" seamless=\"\" height=\"auto\" width=\"auto\">\n <p>Il browser in uso non supporta iframe</p></iframe>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
