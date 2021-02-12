@@ -41,7 +41,7 @@
       }
     ],
     "imageResize": false,
-    "uniqCompNum": 43,
+    "uniqCompNum": 44,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
@@ -2417,21 +2417,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<iframe src=\"https://mobiletest.pagolapolizza.it/Prodotto/Tcm/\" scrolling=\"no\" frameborder=\"0\" align=\"left\" marginheight=\"0px\" marginwidth=\"0px\" height=\"auto\" width=\"auto\">\n<p>Il tuo browser non supporta gli iframe.</p>\n</iframe>",
-          "_customCSS": "",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "techm4",
-          "_anchor": "custom-html-16",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
         }
       ]
     }
