@@ -1428,7 +1428,7 @@ section.lazy-placeholder:after {
   background: rgba(255, 255, 255, 0.1);
 }
 .cid-rleYPBziTA .progress1 progress::-webkit-progress-value {
-  background: #bfceff;
+  background: #cc2952;
 }
 .cid-rleYPBziTA .progress2 progress::-webkit-progress-value {
   background: #5580ff;
@@ -1440,13 +1440,13 @@ section.lazy-placeholder:after {
   background: #bfceff;
 }
 .cid-rleYPBziTA .progress1 .progressbar-number:before {
-  content: '77';
+  content: '97';
 }
 .cid-rleYPBziTA .progress2 .progressbar-number:before {
-  content: '89';
+  content: '92';
 }
 .cid-rleYPBziTA .progress3 .progressbar-number:before {
-  content: '82';
+  content: '98';
 }
 .cid-rleYPBziTA .progress4 .progressbar-number:before {
   content: '93';
