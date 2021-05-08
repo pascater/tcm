@@ -75,7 +75,7 @@
     "lazyLoad": true,
     "lazyType": "nothing",
     "pwa-switcher": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "chatbutton": {
       "phone": "+393382234395",
       "message": "",
@@ -2038,7 +2038,7 @@
               "color": "#ffffff"
             },
             "H5": {
-              "color": "#ffffff"
+              "color": "#ff8a73"
             },
             ".theme": {
               "color": "#ffffff"
