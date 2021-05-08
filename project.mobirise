@@ -70,7 +70,7 @@
     "PWA": {
       "enabled": false
     },
-    "favicon": "@PROJECT_PATH@/assets/images/polizza-vita.net-ridimensionato-128x22.png",
+    "favicon": "@PROJECT_PATH@/assets/images/polizza-vita.net-1-2-84x56.png",
     "cssOptimize": true,
     "lazyLoad": true,
     "lazyType": "nothing",
