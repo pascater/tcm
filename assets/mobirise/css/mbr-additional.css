@@ -2534,6 +2534,19 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #57468b;
 }
+.cid-sx2VogUJNI {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sx2VogUJNI .list {
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+}
+.cid-sx2VogUJNI .list .link:not(:last-child) {
+  margin-right: 20px;
+}
 .cid-swQnsaOpvp .navbar-dropdown {
   position: relative!important;
   top: 0;
