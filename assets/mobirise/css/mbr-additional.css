@@ -3580,38 +3580,38 @@ section.lazy-placeholder:after {
 .cid-swQJCKfAcd H3 {
   color: #716c80;
 }
-.cid-swQJCKCNl6 {
+.cid-sSrAmQgDLv {
   padding-top: 75px;
   padding-bottom: 75px;
   background-color: #bfceff;
 }
-.cid-swQJCKCNl6 section {
+.cid-sSrAmQgDLv section {
   position: relative;
 }
-.cid-swQJCKCNl6 .container {
+.cid-sSrAmQgDLv .container {
   max-width: 1400px;
 }
-.cid-swQJCKCNl6 .card-img2 span {
+.cid-sSrAmQgDLv .card-img2 span {
   padding-top: 6px;
 }
-.cid-swQJCKCNl6 .soc-item a {
+.cid-sSrAmQgDLv .soc-item a {
   padding-top: 5px;
 }
-.cid-swQJCKCNl6 .btn {
+.cid-sSrAmQgDLv .btn {
   padding: 0.4rem 0.6rem;
   margin: 0.5rem!important;
   border-radius: 10px!important;
   letter-spacing: 0px;
 }
-.cid-swQJCKCNl6 .btn .mbr-iconfont {
+.cid-sSrAmQgDLv .btn .mbr-iconfont {
   margin-top: 0.1rem;
 }
 @media (max-width: 992px) {
-  .cid-swQJCKCNl6 .content > div:not(:last-child) {
+  .cid-sSrAmQgDLv .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
-.cid-swQJCKCNl6 .quote {
+.cid-sSrAmQgDLv .quote {
   background-color: rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   padding: 1rem;
@@ -3620,7 +3620,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
   text-align: left;
 }
-.cid-swQJCKCNl6 .quote::after {
+.cid-sSrAmQgDLv .quote::after {
   top: 100%;
   left: 36px;
   content: " ";
@@ -3631,7 +3631,7 @@ section.lazy-placeholder:after {
   border-width: 20px 20px 0 0;
   border-color: rgba(0, 0, 0, 0.1) transparent transparent;
 }
-.cid-swQJCKCNl6 .card-img2 {
+.cid-sSrAmQgDLv .card-img2 {
   width: 45px;
   height: 45px;
   background: #5580ff;
@@ -3640,10 +3640,10 @@ section.lazy-placeholder:after {
   justify-content: center;
   align-items: center;
 }
-.cid-swQJCKCNl6 .soc-item {
+.cid-sSrAmQgDLv .soc-item {
   width: 45px;
   height: 45px;
-  background: #ffffff;
+  background: #ff8a73;
   margin-bottom: 1rem;
   border-radius: 100%;
   display: flex;
@@ -3651,40 +3651,40 @@ section.lazy-placeholder:after {
   align-items: center;
   margin-right: 1rem;
 }
-.cid-swQJCKCNl6 .soc-item span {
+.cid-sSrAmQgDLv .soc-item span {
   font-size: 1.4rem;
 }
-.cid-swQJCKCNl6 .soc-item:hover span {
+.cid-sSrAmQgDLv .soc-item:hover span {
   color: #ff8a73 !important;
 }
-.cid-swQJCKCNl6 .item {
+.cid-sSrAmQgDLv .item {
   display: flex;
   align-items: center;
   margin-bottom: 1rem;
 }
-.cid-swQJCKCNl6 .item h4 {
+.cid-sSrAmQgDLv .item h4 {
   padding-left: 10px;
   margin: 0;
 }
-.cid-swQJCKCNl6 .media-wrap {
+.cid-sSrAmQgDLv .media-wrap {
   margin-bottom: 1rem;
 }
-.cid-swQJCKCNl6 .mbr-iconfont-logo {
+.cid-sSrAmQgDLv .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-swQJCKCNl6 img {
+.cid-sSrAmQgDLv img {
   height: 4rem;
 }
 @media (max-width: 576px) {
-  .cid-swQJCKCNl6 .item {
+  .cid-sSrAmQgDLv .item {
     justify-content: center;
   }
-  .cid-swQJCKCNl6 .quote::after {
+  .cid-sSrAmQgDLv .quote::after {
     left: 60px;
   }
 }
-.cid-swQJCKCNl6 .social-list {
+.cid-sSrAmQgDLv .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -3692,49 +3692,28 @@ section.lazy-placeholder:after {
   flex-wrap: wrap;
 }
 @media (max-width: 576px) {
-  .cid-swQJCKCNl6 .social-list {
+  .cid-sSrAmQgDLv .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
 }
-.cid-swQJCKCNl6 .text1 {
+.cid-sSrAmQgDLv .text1 {
   color: #ffffff;
 }
-.cid-swQJCKCNl6 .item-title {
+.cid-sSrAmQgDLv .item-title {
+  color: #57468b;
+}
+.cid-sSrAmQgDLv H5 {
+  color: #5580ff;
+}
+.cid-sSrAmQgDLv .theme {
   color: #ffffff;
 }
-.cid-swQJCKCNl6 H5 {
-  color: #ff8a73;
-}
-.cid-swQJCKCNl6 .theme {
-  color: #ffffff;
-}
-.cid-swQJCKCNl6 .copyright > p {
+.cid-sSrAmQgDLv .copyright > p {
   color: #ff3366;
 }
-.cid-swQJCKCNl6 .text2 {
+.cid-sSrAmQgDLv .text2 {
   color: #ffffff;
-}
-#custom-html-2w .wrapper {
-  width: 100%;
-  height: 100%;
-  margin: 0 auto;
-  background: #ffffff;
-}
-#custom-html-2w .h_iframe {
-  position: relative;
-}
-#custom-html-2w .h_iframe .ratio {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-#custom-html-2w .h_iframe iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
 }
 .cid-sx2uOXsUGZ {
   padding-top: 30px;
