@@ -3715,6 +3715,49 @@ section.lazy-placeholder:after {
 .cid-sSrAmQgDLv .text2 {
   color: #ffffff;
 }
+.cid-sSrB5kJNVo {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-sSrB5kJNVo img {
+  height: 100%;
+  margin: 0 auto;
+  padding-bottom: 2rem;
+}
+.cid-sSrB5kJNVo H1 {
+  color: #57468b;
+}
+.cid-sSrB5kJNVo .mbr-text,
+.cid-sSrB5kJNVo .mbr-section-btn {
+  color: #716c80;
+}
+.cid-sSrB5kJNVo H3 {
+  color: #716c80;
+}
+.cid-sSrB5kJNVo .mbr-iconfont {
+  padding-left: 0.4rem;
+}
+.cid-sSrB5kJNVo .link {
+  display: flex;
+  width: fit-content;
+  transition: all 0.3s;
+  align-items: center;
+}
+.cid-sSrB5kJNVo .link .link-ico {
+  padding-top: 2px;
+  transition: padding 0.3s;
+}
+.cid-sSrB5kJNVo .link:hover {
+  color: #ff8a73 !important;
+}
+.cid-sSrB5kJNVo .link:hover .link-ico {
+  color: #ff8a73 !important;
+  padding-left: 10px;
+}
+.cid-sSrB5kJNVo DIV {
+  color: #57468b;
+}
 .cid-sx2uOXsUGZ {
   padding-top: 30px;
   padding-bottom: 30px;
