@@ -49,18 +49,6 @@
     "sitemapSwitcher": true,
     "siteUrl": "https://www.polizza-vita.net/sitemap.xml",
     "sitemapSwitcherAuto": "on",
-    "cookiesAlert": {
-      "customDialogSelector": true,
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "opacityOverlay": "39",
-      "text": "Al fine di migliorare l’usabilità raccogliamo dati di navigazione degli utenti sul sito tramite cookie (piccoli file di dati che vengono trasferiti tramite il Browser) eventualmente anche di terze parti. L’utente ha facoltà di impostare il proprio browser in modo che non accetti i cookies oppure può cancellarli in qualsiasi momento. Andando avanti con la navigazione sul sito acconsenti all'utilizzo degli stessi cookie.\n\nWe use cookies to give you the best experience. Se vuoi, puoi anche leggere la nostra <a href='https://www.crea-assicurazioni.com/it/Home/Privacy'>cookie policy completa</a>.",
-      "textButton": "Ok, sono d'accordo."
-    },
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
@@ -97,7 +85,8 @@
     "google-analytics": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WN45RBW\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
     "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WN45RBW\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
     "global_header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WN45RBW');</script>\n<!-- End Google Tag Manager -->",
-    "global_footer_custom": "<script type=\"text/javascript\" src=\"//www.freeprivacypolicy.com/public/cookie-consent/4.0.0/cookie-consent.js\" charset=\"UTF-8\"></script>\n<script type=\"text/javascript\" charset=\"UTF-8\">\ndocument.addEventListener('DOMContentLoaded', function () {\ncookieconsent.run({\"notice_banner_type\":\"headline\",\"consent_type\":\"express\",\"palette\":\"light\",\"language\":\"it\",\"page_load_consent_levels\":[\"strictly-necessary\"],\"notice_banner_reject_button_hide\":false,\"preferences_center_close_button_hide\":false,\"website_privacy_policy_url\":\"https://www.crea-assicurazioni.com/it/Home/Privacy\"});\n});\n</script>"
+    "global_footer_custom": "<script type=\"text/javascript\" src=\"//www.freeprivacypolicy.com/public/cookie-consent/4.0.0/cookie-consent.js\" charset=\"UTF-8\"></script>\n<script type=\"text/javascript\" charset=\"UTF-8\">\ndocument.addEventListener('DOMContentLoaded', function () {\ncookieconsent.run({\"notice_banner_type\":\"headline\",\"consent_type\":\"express\",\"palette\":\"light\",\"language\":\"it\",\"page_load_consent_levels\":[\"strictly-necessary\"],\"notice_banner_reject_button_hide\":false,\"preferences_center_close_button_hide\":false,\"website_privacy_policy_url\":\"https://www.crea-assicurazioni.com/it/Home/Privacy\"});\n});\n</script>",
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
