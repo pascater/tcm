@@ -1437,13 +1437,13 @@ section.lazy-placeholder:after {
   content: '97';
 }
 .cid-rleYPBziTA .progress2 .progressbar-number:before {
-  content: '96';
-}
-.cid-rleYPBziTA .progress3 .progressbar-number:before {
   content: '98';
 }
-.cid-rleYPBziTA .progress4 .progressbar-number:before {
+.cid-rleYPBziTA .progress3 .progressbar-number:before {
   content: '99';
+}
+.cid-rleYPBziTA .progress4 .progressbar-number:before {
+  content: '100';
 }
 .cid-rleYPBziTA .progress-primary {
   background: rgba(206, 206, 206, 0.4);
