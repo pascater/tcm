@@ -2436,23 +2436,6 @@
           "_global": true,
           "_once": true,
           "_params": {}
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- ----- INIZIO WIDGET CUSTOM PER INSERIMENTO DATA DI NASCITA ----- -->\n<section class=\"custom-cta cid-rlf1WWFKeE\">\n\n\n    \n<div class=\"d-flex justify-content-center align-items-center container\">\n        <h3>Quando sei nato?</h3>\n        <div class=\"\">\n            <input id=\"birth-date\" class=\"birth-date birth-date-input\" autocomplete=\"off\" type=\"text\" value=\"\" placeholder=\"gg/mm/aaaa\" data-inputmask-alias=\"datetime\" data-inputmask-inputformat=\"dd/mm/yyyy\" inputmode=\"numeric\">\n        </div>\n\n        <button class=\"date-button\" onclick=\"customCtaSubmit(document.getElementById('birth-date').value)\">\n            fai il tuo preventivo\n        </button>\n    </div>\n    [JS_CODE_0]\n</section>\n\n<!-- ----- FINE WIDGET CUSTOM PER INSERIMENTO DATA DI NASCITA ----- -->\n\n",
-          "_customCSS": " <!-- loa212 -->\n <!-- widget inputmask stylesheet -->\n <link rel=\"stylesheet\" href=\"styles.css\">\n <!-- end -->\n",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "techm4",
-          "_anchor": "custom-html-35",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type=\"text/javascript\">\n        const customCtaSubmit = (date) => {\n            //validate date\n            // if (!date) {console.log('form empty'); return}\n\n            //replace / with -\n            let location = date.replaceAll('/','-') \n\n            location = `https://test.casaefamiglia.it/tcm/CalcoloRata?data=${location}`\n\n            window.location.href = location;\n        }\n    </script>"
-          ]
         }
       ]
     },
