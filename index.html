@@ -1054,7 +1054,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
             <div class="col-lg-6 my-auto pb-4 mbr-form" data-form-type="formoid">
                 <!---Formbuilder Form--->
-                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="4ZPErllTuwW8rZ4DEmfXnaaAvrSJMwLQKr64YE6tcEx4Z7foGdR1c+mu/1RW1XXAdafLxkB81cKfMm1VxBlGMMvz8kianOYL4JIK4/CQJbZunq5H924UyotrVl1nZ0fE.u9Rn2PL2B2b3rUsltGXc2NnA0G0bEC+/NECa2FTK+IJMIZljzat9CkfxMGAatb98gVzOjpVqlmV6lKBm/ycWrqhcPLGdCiTOZ764zzLi963D1O9IO3LjgK2wf3t7AKE6">
+                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="cZVIacH9Pi7iivUgRGcI3dkG/oLuO4Ej+oD90SrrHCPPRtTC8vWZCx2z5xhCSlVbVzgvfPK/8Qnxd+VOhY804Z3fEq00zO9mmQ9+uwLdSw1/8AuN1jLUMopspL2G8czx.xJuSBo38lr5MzNdLESBCKl4MrlL3u4Xkb93r9/4oBox6Ol8DsHAszxItKPxuEqKp0y2xDMAqo6bCSvMKN57vLzpRIywWb7Fb/6+DJoNR2H4yyO8QHRFEgz4OICfXJbKT">
                     <div class="form-row">
                         <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Grazie per averci inviato il tuo messaggio. Ti contattiamo a breve.</div>
                         <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">Oops...! some problem!</div>
@@ -1093,7 +1093,7 @@ La presente informativa è redatta sulla base di molteplici ordinamenti legislat
     </div>
 </section>
 
-<section class="cid-rlf2Ljj53F mbr-reveal" id="footer03-6v">
+<section class="cid-rlf2Ljj53F" id="footer03-6v">
 
     
 
@@ -1274,6 +1274,40 @@ La presente informativa è redatta sulla base di molteplici ordinamenti legislat
         </div>
     </div>
 </section>
+
+<div id="custom-html-35"><!-- ----- INIZIO WIDGET CUSTOM PER INSERIMENTO DATA DI NASCITA ----- -->
+<section class="custom-cta cid-rlf1WWFKeE">
+
+
+    
+<div class="d-flex justify-content-center align-items-center container">
+        <h3>Quando sei nato?</h3>
+        <div class="">
+            <input id="birth-date" class="birth-date birth-date-input" autocomplete="off" type="text" value="" placeholder="gg/mm/aaaa" data-inputmask-alias="datetime" data-inputmask-inputformat="dd/mm/yyyy" inputmode="numeric">
+        </div>
+
+        <button class="date-button" onclick="customCtaSubmit(document.getElementById('birth-date').value)">
+            fai il tuo preventivo
+        </button>
+    </div>
+    <script type="text/javascript">
+        const customCtaSubmit = (date) => {
+            //validate date
+            // if (!date) {console.log('form empty'); return}
+
+            //replace / with -
+            let location = date.replaceAll('/','-') 
+
+            location = `https://test.casaefamiglia.it/tcm/CalcoloRata?data=${location}`
+
+            window.location.href = location;
+        }
+    </script>
+</section>
+
+<!-- ----- FINE WIDGET CUSTOM PER INSERIMENTO DATA DI NASCITA ----- -->
+
+</div>
 
 
 <script src="assets/web/assets/jquery/jquery.min.js"></script>
