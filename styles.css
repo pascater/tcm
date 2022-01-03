@@ -1,0 +1,102 @@
+
+
+/* styles to set inputmask to current theme */
+/* by loa212 */
+
+.custom-cta{
+    color: #57468b;
+    background-color: hsl(225, 100%, 67%, 0.2);
+    padding: 64px 24px;
+    margin: 0px 0px;
+    display: flex;
+    align-items: center;
+    justify-items: start;
+}
+.custom-cta > .container{
+    justify-content: start;
+}
+
+.custom-cta > .container > *{
+    margin-bottom: 16px;
+    margin-right: 16px;
+    display: block;
+}
+
+@media only screen and (min-width: 768px) {
+    /* above mobile phones: */
+    .custom-cta > .container > *{
+        margin-bottom: 0px;
+    }
+    .custom-cta > .container{
+        display: flex;
+    }
+    .custom-cta{
+        padding: 64px 64px;
+    }
+  }
+
+
+
+
+.mx-auto{
+    margin: auto;
+}
+
+.max-w-50{
+    max-width: 50%;
+}
+
+
+
+.my-4{
+    margin-top:16px;
+    margin-bottom: 16px;
+}
+
+.my-4{
+    margin-top:16px;
+    margin-bottom: 16px;
+}
+
+
+.date-button{
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+    /* ------------ */
+    padding: 6px 24px;
+    outline: #ff8a73 solid 3px;
+    color: #ff8a73;
+    font-weight: bold;
+    border-radius: 16px;
+}
+
+.date-button:focus{
+    outline: #ff8a73a9 solid 3px;
+    color: #ff8a73a9;
+}
+
+.date-button:hover{
+    background-color: #ff8a73;
+    color: #fff;
+}
+
+.birth-date-input, .birth-date-input:focus{
+    outline: none;
+    border-radius: 16px;
+    padding: 6px 24px;
+    border: hsl(225, 100%, 67%) solid 3px ;
+}
+
+.birth-date-input:focus{
+    background-color: aliceblue;
+}
+
+.space-between > * {
+    margin-left: 0px;
+    margin-right: 0px;
+}
